@@ -1,4 +1,4 @@
-This repo contains configurations for my hyprland DE
+This repo contains configurations for my hyprland DW
 
 # hyprland.conf
 This file contains the following:
@@ -13,7 +13,7 @@ This file contains the following:
 # hyprpaper
 The hyprpaper.conf is responsible for switching wallpapers
 
-## Tools and programs my hyprland DE uses
+## Tools and programs my hyprland DW uses
 - yay
 - feh 
 - ffmpegthumbnailer
